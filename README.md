@@ -19,7 +19,7 @@ TaskMastery is a comprehensive task manager app designed to help users stay orga
 https://drive.google.com/drive/folders/1N4YHA_ZJ25Gk57eqWCbtFlHEJCzllAiX
 
 ## Download 
-- Download the App(APK) for Android from here: https://drive.google.com/file/d/1gGsiQCKtNdj42sdCz6R5eYaAb3_ZLWzt/view?fbclid=IwY2xjawGVJFFleHRuA2FlbQIxMAABHTKw7OGcOPgKA3GG1Q5_T-JyJVIMMF1AHl1oGW4FhUNIxR3TCOG7cCPFlw_aem_HtCvJfjnHGS_7cnye8C8mQ
+- Download the App(APK) for Android from here: https://shorturl.at/356NO
 
 ## License
 This project is licensed under the MIT License.
