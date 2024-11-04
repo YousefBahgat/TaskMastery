@@ -1,18 +1,28 @@
-# Info:
+# TaskMastery
 
-A to-do app to list and manage your tasks!, this app works offline and only requires 
-internet connection in installation and when using the app first time!.
+## Overview
 
-- Supports light & Dark theme.
+TaskMastery is a comprehensive task manager app designed to help users stay organized and efficient. The app features light and dark themes, various animations, and offline functionality, making it a versatile tool for managing tasks effectively.
 
-## Data storing:
-Sqflite package is used for the offline database. 
+## Features
 
-## Contact: 
-email: yousefbahgat99@gmail.com
+- **Themes**: Light and dark themes for user customization.
+- **Task Management**: Add tasks for specific dates, categorize tasks into different lists, and mark tasks as important or finished.
+- **Notifications**: Set reminders for tasks with intuitive notifications.
+- **Animations**: Smooth and engaging animations for a better user experience.
+- **Offline Capability**: Completely offline functionality with robust local database storage.
+- **Tutorial**: User-friendly tutorial to guide new users.
 
-## ScreenShots: https://drive.google.com/drive/folders/1N4YHA_ZJ25Gk57eqWCbtFlHEJCzllAiX?usp=sharing
 
+
+## Screenshots
+https://drive.google.com/drive/folders/1N4YHA_ZJ25Gk57eqWCbtFlHEJCzllAiX
+
+## Download 
+- Download the App(APK) for Android from here: https://drive.google.com/file/d/1gGsiQCKtNdj42sdCz6R5eYaAb3_ZLWzt/view?fbclid=IwY2xjawGVJFFleHRuA2FlbQIxMAABHTKw7OGcOPgKA3GG1Q5_T-JyJVIMMF1AHl1oGW4FhUNIxR3TCOG7cCPFlw_aem_HtCvJfjnHGS_7cnye8C8mQ
+
+## License
+This project is licensed under the MIT License.
 
 
 
